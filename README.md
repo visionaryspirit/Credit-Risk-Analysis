@@ -1,4 +1,4 @@
-# **CREDIT RISK ANALYSIS REPORT
+# CREDIT RISK ANALYSIS REPORT
 ![logo](12-5-challenge-image.png)
 
 >Applying Logistic Regression models with imbalanced, and balanced data sets. Understanding the metrics to assess each model, and predictions.
